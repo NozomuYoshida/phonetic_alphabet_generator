@@ -1,4 +1,4 @@
-# phonetic_alphbet_generator
+# phonetic_alphabet_generator
 This is a nato phonetic alphabet generator that returns a list where each phonetic alphabet of the input letters was included.
 - e.g., Input: 'Nozomu' → Output: ['November', 'Oscar', 'Zulu', 'Oscar', 'Mike', 'Uniform']
 
